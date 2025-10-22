@@ -33,7 +33,7 @@
 
 ## 🧩 About Me  
 
-- 🔭 Currently working on **Generative AI**, **LLMs**, and **MLOps pipelines**  
+- 🔭 Currently looking for opportunities in **AI and ML engineering roles**
 - 🤝 Open to collaborating on **AI, ML, or agentic system** projects  
 - 🧠 Exploring **LangChain**, **LangGraph**, and **RAG architectures**  
 - ❤️ Driven by curiosity and a mission to make AI more **human-centric**  
