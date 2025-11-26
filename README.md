@@ -1,109 +1,107 @@
-# 👋 Hi, I'm Elói Ramos — AI/Context Engineer & Venture Studio Founder
+# 👋 Hi, I'm Elói Ramos — AI/Context Engineer & Founder
 
-I design and build **multi-agent AI systems**, **spec-driven engineering pipelines**, and **offline-first SaaS architectures** with a strong emphasis on **compliance, transparency, and engineering autonomy**.
+I build **multi-agent AI systems**, **spec-driven engineering workflows**, and **offline-first SaaS architectures** designed for high-trust environments where privacy, reliability, and auditability are essential.
 
-I lead a **deep-tech venture studio in stealth**, focused on incubating AI-native products engineered for sensitive, high-trust environments.  
-I operate end-to-end across architecture, engineering, technical governance, and LLM-based orchestration.
+I run a deep-tech venture studio (currently in stealth) focused on orchestrating and scaling products that combine **local-first AI**, **deterministic pipelines**, and **rigorous specification governance**.  
+My work sits at the intersection of **AI engineering**, **systems design**, and **product strategy** — ensuring every deliverable is **traceable, reproducible, and compliant by default**.
 
 ---
 
 ## 🧭 What I Do
 
-- Design **spec-first engineering pipelines** for multi-agent systems  
-- Architect **local-first and offline-capable applications** with deterministic AI components  
-- Build **context-aware toolchains** for research, code generation, and auditability  
-- Develop **AI Act–aligned compliance workflows** for early-stage products  
-- Lead **concept-to-MVP product incubation** inside a multi-project venture studio  
-- Mentor agentic collaborators inside advanced multi-model ecosystems  
-
-My work bridges **AI engineering**, **systems architecture**, and **founder-level strategy**, ensuring every deliverable is auditable, reproducible, and spec-governed.
+- Engineer **spec-first** multi-agent systems and orchestration pipelines  
+- Build **local/on-device** AI workflows for privacy-critical use cases  
+- Design **offline-first architectures** with deterministic behavior  
+- Govern full product lifecycles using **technical specifications** and audit-ready documentation  
+- Architect AI Act–aligned compliance frameworks  
+- Lead end-to-end venture incubation: research → architecture → MVP  
+- Mentor AI collaborators inside heterogeneous multi-model ecosystems  
 
 ---
 
-# 🔧 Technical Focus Areas
+## 🔧 Technical Focus Areas
 
 ### Core Domains
-- AI Agent Orchestration  
+- Multi-Agent AI Orchestration  
 - Context Engineering  
-- Safety-Aware AI Development  
-- Offline-First / Local-Only Architectures  
-- EU AI Act Alignment & Risk Engineering  
-- Specification Governance & Technical Documentation  
+- Local-First / Offline-Only Architectures  
+- Safety-Aware & Compliance-Centric AI  
+- Specification Governance (OpenSpec / TechDocs)  
+- EU MDR / AI Act Alignment  
 
 ### Tooling & Workflow
-- Multi-agent orchestration frameworks  
-- Spec-driven build systems  
-- LLM-based code generation (auditable and traceable workflows)  
-- Local/on-device RAG pipelines  
 - Python, TypeScript, Swift  
-- VS Code, GitHub, and a curated set of frontier-grade AI models (confidential)
+- VS Code, GitHub  
+- Multi-agent orchestration frameworks  
+- Deterministic code-gen pipelines  
+- Local RAG systems  
+- Frontier models (selective, purpose-bound usage)  
+
+I focus on technologies that provide **engineer-level control**, **audit trails**, and **predictable behavior** — avoiding black-box dependencies whenever possible.
 
 ---
 
-# 🧠 Engineering Philosophy  
-### Five Pillars That Guide My Work
+## 🧠 Engineering Philosophy
 
-### 1. **Spec-First, Code-Second**  
-Every system begins with structure, constraints, and traceability.
+### 1. **Structure First, Code Second**  
+Specs, constraints, and traceability are the foundation of high-trust systems.
 
-### 2. **Local-First for Trust**  
-Data belongs to users — offline-first is a strategic advantage.
+### 2. **Local-First for Privacy & Speed**  
+Latency, reliability, and sovereignty matter. Everything that can run on-device, should.
 
-### 3. **Auditable AI Is Good AI**  
-Reproducibility and deterministic behavior matter deeply.
+### 3. **Deterministic AI > Guesswork AI**  
+Tools should behave predictably. Reproducibility is a feature.
 
-### 4. **Multi-Agent Systems Require Harmony**  
-Agents must share context, cooperate, and follow unified governance.
+### 4. **Agentic Systems Need Governance**  
+Agents require context discipline, shared memory, and unified instruction layers.
 
-### 5. **Compliance as a Feature**  
-Regulatory alignment from day one creates defensibility and long-term scale.
-
----
-
-# 📂 Public Repositories
-
-Only **non-commercial** and **non-confidential** repositories appear here.  
-These include safe examples, demos, utilities, and experimental prototypes.
-
-Private, pre-commercial, and venture-studio projects remain fully confidential.
+### 5. **Regulatory Alignment Is a Strategic Moat**  
+Compliance isn’t overhead — it’s a differentiator.
 
 ---
 
-# 🧩 Current Work (Stealth Mode)
+## 📂 Public Repositories
 
-I architect a portfolio of AI-driven products focused on:
-
-- multi-agent orchestration  
-- on-device AI pipelines  
-- local-first SaaS  
-- risk classification & compliance  
-- engineering autonomy  
-- spec-driven development  
-
-Details, names, and architectures remain private until public launch.
+Only **non-commercial**, **safe**, and **non-confidential** repositories appear here.  
+Active venture projects remain private inside the studio infrastructure.
 
 ---
 
-## 📱 Current Project — Mobile App (Codename: Solstice) · MVP Phase
+# 📱 Current Project — Mobile App (Codename: Solstice)
 
-I’m currently leading the engineering and architectural development of a new **offline-first mobile application** designed for structured personal productivity and intelligent note workflows.
+I’m currently designing the architecture and engineering framework for **Solstice**, a new offline-first mobile application focused on structured personal productivity and intelligent note workflows.
 
-The MVP includes:
+The MVP explores:
 
-- A fully **local-first processing pipeline** (no cloud, no analytics, no external data sharing)  
-- Intelligent text assistance running **on-device**, ensuring complete user privacy  
-- A minimal, distraction-free writing environment  
-- Smart organization for structuring thoughts, study materials, and personal notes  
-- Context-aware suggestions to reduce cognitive load  
-- A compliance-informed design approach aligned with consumer-grade privacy expectations  
+### **Core Principles**
+- 100% **local-first** (no cloud, no analytics, no data egress)  
+- Instant interaction with **on-device AI**  
+- Privacy as a design constraint  
+- Minimalist UX built for cognitive clarity  
 
-The project follows a **privacy-first philosophy**, avoiding server dependencies and minimizing attack surface.  
-More details will be shared publicly after the MVP launch.
+### **Early Feature Set (Non-Sensitive)**
+- Intelligent note expansion using deterministic, local AI  
+- Context-aware organization of study materials and personal notes  
+- Distraction-free writing workflow  
+- Local semantic search over user data (documents, notes)  
+- Zero-latency offline operation in low-connectivity environments  
+
+The project is built with a **privacy-first philosophy** and intentionally excludes medical, diagnostic, or regulated functionality.
+
+More will be shared publicly after the MVP is released.
 
 ---
 
-# 📫 Connect With Me  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloiRamos&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloiRamos&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
 - LinkedIn: https://linkedin.com/in/elói-ramos  
-- GitHub: https://github.com/EloiRamos
+- GitHub: https://github.com/EloiRamos  
 
-I'm always open to connecting with builders, engineers, founders, and investors working on AI agents, offline-first systems, or spec-driven engineering.
+If you're working on **AI agents**, **local-first applications**, or **spec-driven engineering**, feel free to connect.
