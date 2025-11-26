@@ -103,7 +103,7 @@ More details will be shared publicly after the MVP launch.
 ---
 
 # 📫 Connect With Me  
-- LinkedIn: https://linkedin.com/in/eloi-ramos  
+- LinkedIn: https://linkedin.com/in/elói-ramos  
 - GitHub: https://github.com/EloiRamos
 
 I'm always open to connecting with builders, engineers, founders, and investors working on AI agents, offline-first systems, or spec-driven engineering.
