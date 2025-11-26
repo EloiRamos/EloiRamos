@@ -94,8 +94,8 @@ More will be shared publicly after the MVP is released.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloiRamos&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloiRamos&layout=compact)
+![GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=EloiRamos&show_icons=true&hide_border=true&theme=transparent)
+![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=EloiRamos&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
