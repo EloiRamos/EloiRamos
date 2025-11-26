@@ -102,13 +102,6 @@ More details will be shared publicly after the MVP launch.
 
 ---
 
-# 📊 Optional Visual Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloiRamos&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloiRamos&layout=compact)
-
----
-
 # 📫 Connect With Me  
 - LinkedIn: https://linkedin.com/in/eloi-ramos  
 - GitHub: https://github.com/EloiRamos
